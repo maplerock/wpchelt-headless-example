@@ -1,7 +1,7 @@
 # A getting starting guide to working the WordPress API
 
 A little JavaScript app put together for the [WPChelt Meetup](https://www.meetup.com/Cheltenham-WordPress-Meetup/) to show how you can intereact with the WordPress API.
-** Note: This is a proof of concept and should not to be used in the wild and is 'rough around the edges'!**
+**Note: This is a proof of concept and should not to be used in the wild and is 'rough around the edges'!**
 
 - I'm using [Gulp](https://gulpjs.com/) to compile the JavaScript and SASS to CSS.
 - It uses [Vue](http://vuejs.org/).
